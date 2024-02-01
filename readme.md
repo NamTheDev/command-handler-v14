@@ -1,7 +1,6 @@
-Handler for discord.js version 13
+# Handler for discord.js v14
 
-`npm install` - install all required dependancies
+CREDIT: Reconlx
+ORIGINAL REPOSITORY: https://github.com/limxuan/djs-base-handler
 
-`node index.js` - start the project
-
-Only open pull requests for bug fixes, I want to keep the code as clean as possible, thanks!
+EDITOR: Nam
